@@ -15,8 +15,8 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge [here](h
 | Day | Challenge                                           |  Date Finished  |
 | :-: | :-------------------------------------------------- | :-------------: |
 |  1  | [CSS Drum Kit][1]                                   | 04 / 04 / 2022  |
-|  2  | [JS + CSS Clock][2]                                 | 04 / 2022  |
-|  3  | [CSS Variables][3]                                  | 04 / 2022  |
+|  2  | [JS + CSS Clock][2]                                 | 04 / 05 / 2022  |
+|  3  | [CSS Variables][3]                                  | 04 / 05 / 2022  |
 |  4  | [Array Cardio 1][4]                                 | 04 / 2022  |
 |  5  | [Flex Panel Gallery][5]                             | 04 / 2022  |
 |  6  | [Type Ahead][6]                                     | 04 / 2022  |

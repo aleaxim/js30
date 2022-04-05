@@ -1,4 +1,4 @@
-Day 1 | 04.04.22
+Day 1 | 04.04.22 
 
 
 1. [Relearning HTML Dom Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
@@ -56,3 +56,5 @@ Examples.
 i'm not clicked but i was transitioned,,, 
 The transitionend event occurs when a CSS transition has completed.
 
+
+8. [What (e) means](https://stackoverflow.com/questions/10323392/in-javascript-jquery-what-does-e-mean)
