@@ -18,7 +18,7 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge [here](h
 |  2  | [JS + CSS Clock][2]                                 | 04 / 05 / 2022  |
 |  3  | [CSS Variables][3]                                  | 04 / 05 / 2022  |
 |  4  | [Array Cardio 1][4]                                 | 04 / 07 / 2022  |
-|  5  | [Flex Panel Gallery][5]                             | 04 / 2022  |
+|  5  | [Flex Panel Gallery][5]                             | 04 / 08 / 2022  |
 |  6  | [Type Ahead][6]                                     | 04 / 2022  |
 |  7  | [Array Cardio 2][7]                                 | 04 / 2022  |
 |  8  | [Fun with HTML5 Canvas][8]                          | 04 / 2022  |
