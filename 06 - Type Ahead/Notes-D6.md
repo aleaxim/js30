@@ -1,7 +1,7 @@
 Day 6 | 04.09.22
 
 1. fetch API 
-    * will return a 'Promise' 
+    * will return a '[Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)' 
     * .then() returns a blob of data 
 
     blob has to be converted from raw data into JSON 
@@ -21,3 +21,7 @@ Day 6 | 04.09.22
 
 5. join('')
     * array from multiple items to one big string 
+
+
+To Read:
+* [](https://stackoverflow.com/questions/39458201/understanding-javascript-promise-object)
