@@ -20,9 +20,9 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge [here](h
 |  4  | [Array Cardio 1][4]                                 | 04 / 07 / 2022  |
 |  5  | [Flex Panel Gallery][5]                             | 04 / 08 / 2022  |
 |  6  | [Type Ahead][6]                                     | 04 / 09 / 2022  |
-|  7  | [Array Cardio 2][7]                                 | 04 / 10/ 2022  |
-|  8  | [Fun with HTML5 Canvas][8]                          | 04 / 2022  |
-|  9  | [Dev Tools Domination][9]                           | 04 / 2022  |
+|  7  | [Array Cardio 2][7]                                 | 04 / 10 / 2022  |
+|  8  | [Fun with HTML5 Canvas][8]                          | 08 / 03 / 2022  |
+|  9  | [Dev Tools Domination][9]                           | 08 / 04 / 2022  |
 | 10  | [Hold Shift and Check Checkboxes][10]               | 04 / 2022  |
 | 11  | [Custom Video Player][11]                           | 04 / 2022  | 
 | 12  | [Key Sequence Detection][12]                        | 04 / 2022  |

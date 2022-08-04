@@ -1,4 +1,4 @@
-Day 8 | 04.17.22
+### Day 8 | 04.17.22
 
 1. [2D Context](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 
